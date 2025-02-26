@@ -18,6 +18,11 @@ const links = [
     href: '/dashboard/invoices',
     icon: DocumentDuplicateIcon,
   },
+  {
+    name: '障害補償等給付',
+    href: '/dashboard/disconbenefits',
+    icon: DocumentDuplicateIcon,
+  },
   { name: 'Customers', href: '/dashboard/customers', icon: UserGroupIcon },
 ];
 
