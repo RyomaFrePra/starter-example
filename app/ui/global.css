@@ -60,3 +60,20 @@ table td {
   background-color: #eee;
   padding: 10px 0;
 }
+
+h1 {
+  color: #222222;
+  font-size: 18px;
+  /*線の種類（点線）2px 線色*/
+  border-bottom: dashed 2px #6594e0;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-top: 10px;
+  padding: 0.25em 0.5em;/*上下 左右の余白*/
+  font-size: 14px;
+  color: #222222;/*文字色*/
+  background: transparent;/*背景透明に*/
+  border-left: solid 3px #666666;/*左線*/
+}
