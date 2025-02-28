@@ -77,3 +77,10 @@ h2 {
   background: transparent;/*背景透明に*/
   border-left: solid 3px #666666;/*左線*/
 }
+
+li {
+  font-size: 12px;
+  margin-top: 3px;
+  margin-left: 20px;
+  list-style-type: square;
+  }
