@@ -55,6 +55,14 @@ export default function Page() {
                 <h1>労災保険法　賃金総額の特例</h1>
                 <img src="/労災保険_賃金総額の特例.png"  width={300} height={200} />
             </div>
+            <div style={{ marginTop: '40px' }}>
+                <h1>特定機械の一覧</h1>
+                <img src="/特定機械一覧.png"  width={300} height={200} />
+            </div>
+            <div style={{ marginTop: '40px' }}>
+                <h1>特定機械の許可一覧</h1>
+                <img src="/特定機械許可者一覧.png"  width={300} height={200} />
+            </div>
         </div>
 
     );
