@@ -63,7 +63,25 @@ export default function Page() {
                 <h1>特定機械の許可一覧</h1>
                 <img src="/特定機械許可者一覧.png"  width={300} height={200} />
             </div>
+            <div style={{ marginTop: '40px' }}>
+                <h1>延長給付</h1>
+                <h2>優先順位</h2>
+                <p>個・地・広・全・訓</p>
+                <br></br>
+                <p>270日or330日 ⇒ 算定期間20年以上 + 35歳以上60歳未満</p>
+                <br></br>
+                <p>全国は4か月連続給付率4/100、他は2倍</p>
+                <h2>個別</h2>
+                    <img src="/個別給付.png"  width={300} height={200} />
+                <h2>地域</h2>
+                    <img src="/地域給付.png"  width={300} height={200} />
+                <h2>広域・全国</h2>
+                    <p>　90日</p>
+                <h2>訓練</h2>
+                    <img src="/訓練給付.png"  width={300} height={200} />
+            </div>
         </div>
+        
 
     );
   }
