@@ -28,6 +28,8 @@ export default function Page() {
                     <li>巡視：週１回</li>
                 </ul>
                 <img src="/衛生管理者.png"  width={300} height={200} />
+                <h2>専任要件</h2>
+                <img src="/衛生管理者_専任.png"  width={300} height={200} />
             </div>
             <div style={{ marginTop: '40px' }}>
                 <h1>労災と雇用保険</h1>
@@ -79,6 +81,16 @@ export default function Page() {
                     <p>　90日</p>
                 <h2>訓練</h2>
                     <img src="/訓練給付.png"  width={300} height={200} />
+            </div>
+            <div style={{ marginTop: '40px' }}>
+                <h1>推進者系(専属must・専任なし)</h1>
+                <div>10~50人で必要</div>
+                <br></br>
+                <img src="/推進者区分.png"  width={300} height={200} />
+            </div>
+            <div style={{ marginTop: '40px' }}>
+                <h1>委員会系</h1>
+                <img src="/安全委員会など.png"  width={300} height={200} />
             </div>
         </div>
         
