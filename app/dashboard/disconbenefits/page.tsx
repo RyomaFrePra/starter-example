@@ -92,6 +92,52 @@ export default function Page() {
                 <h1>委員会系</h1>
                 <img src="/安全委員会など.png"  width={300} height={200} />
             </div>
+            <div style={{ marginTop: '40px' }}>
+                <h1>請負の元方</h1>
+                    <div>
+                        <h2>Phase0：特定元方とは</h2>
+                        <ul>
+                            <li>建設業 or 造船業</li>
+                            <li>毎作業日の巡視</li>
+                            <li>統括安全責任者の具備が必要</li>
+                        </ul>
+                    </div>
+                    <br></br>
+                    <div>
+                        <h2>Phase1：統括安全責任者</h2>
+                        <ul>
+                            <li>元方安全衛生管理者の指揮</li>
+                            <li>毎作業日の巡視</li>
+                            <li>統括安全責任者の具備が必要</li>
+                            <li><img src="/統括安全責任者の人数.png"  width={300} height={200} /></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h2>Phase2：元方安全管理者(専属must、専任なし)</h2>
+                        <ul>
+                            <li>建設業のみ</li>
+                            <li>大+実3 or 中高+実5</li>
+                            <li>×コンサル</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h2>Phase3：店社安全衛生管理者</h2>
+                        <ul>
+                            <li>建設業のみ</li>
+                            <li>月1回の巡視</li>
+                            <li>大高+実3 or 中高+実5 or 実8</li>
+                            <li><img src="/店社安全衛生管理者の条件.png"  width={300} height={200} /></li>
+                        </ul>
+                    </div>          
+            </div>
+            <div style={{ marginTop: '40px' }}>
+                <h1>請負側</h1>
+                <h2>安全衛生管理者</h2>
+                <ul>
+                    <li>統括安全衛生責任者がいる場合に必要</li>
+                    <li>連絡係なので特に資格等の要件はない</li>
+                </ul>
+            </div>
         </div>
         
 
