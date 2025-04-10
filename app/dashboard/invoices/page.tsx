@@ -36,7 +36,10 @@ export default function Page() {
                 </ul>
                 <img src="/労災給付のスライドなど.png"  width={300} height={200} />
       </div>
-      
+      <div style={{ marginTop: '40px' }}>
+                <h1>年金の内払システム</h1>
+                <img src="/年金の内払システム.png"  width={300} height={400} />
+      </div>
     </div>
     )
   }
