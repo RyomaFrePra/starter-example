@@ -62,6 +62,19 @@ export default function Page() {
                 <img src="/労災の特別支給金_page-0002.jpg"  width={300} height={800} />
                 <img src="/労災の特別支給金_page-0003.jpg"  width={300} height={800} />
       </div>
+      <div style={{ marginTop: '40px' }}>
+                <h1>労災の特別加入</h1>
+                <img src="/労災の特別加入_page-0001.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0002.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0003.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0004.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0005.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0006.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0007.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0008.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0009.jpg"  width={300} height={800} />
+                <img src="/労災の特別加入_page-0010.jpg"  width={300} height={800} />
+      </div>
     </div>
     )
   }
